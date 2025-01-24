@@ -10,5 +10,3 @@ A Streamlit-based web application that performs advanced image analysis, generat
   - Color distribution visualization
   - Interactive pie charts showing color proportions
 - Sentiment Analysis: Analysis of the image description's emotional tone
-
-# InfosysProject
